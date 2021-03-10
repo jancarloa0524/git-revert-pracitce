@@ -17,8 +17,18 @@ Use `git revert ___` (see notes for specific command) to bring back all of the d
 
 Imagine if we were working on a website for a restaurant, and we...
 * Add the bare minimum of the whole website with a blue color scheme
-* Change the color scheme from blues to greens
-* Delete all copyrighted images
+  * _This part is already done_
+* Change the color scheme from blues to greens (hint: there are 6 blues)
+  * **Do this, then add+commit**
+* Delete all images because they're copyrighted
+  * **Do this, then add+commit**
+
 What if the restaurant owner changes their mind, and wants to turn greens back to blues?
 
-Try simulating this in `website.md`!
+### Your Task: use `git revert`
+
+**Undo your commit that changed blues to greens.**
+
+_This will change them back to blues._
+
+_But notice that it preserved our deletion of copyrighted images!_
