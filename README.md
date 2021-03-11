@@ -32,3 +32,5 @@ What if the restaurant owner changes their mind, and wants to turn greens back t
 _This will change them back to blues._
 
 _But notice that it preserved our deletion of copyrighted images!_
+
+**Make sure you push your changes to Github!**
