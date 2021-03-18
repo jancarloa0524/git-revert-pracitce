@@ -4,28 +4,28 @@
 
 ### ANIMAL TRANSPORTATION
 * Birds travel via air
-* Fish travel via water
+* Lions travel via land
 * example1
 
 
 
 ### ANIMAL NOISES
 * Birds say tweet tweet
-* Fish say blub blub
+* Lion say roaar
 * example1
 
 
 
 ### ANIMAL COLORS
 * Most birds are gray
-* Fish come in all sorts of colors!
+* Lion are orangish/brownish
 * example1
 
 
 
 ### ANIMAL NAMES
 * A good bird name is Tweety
-* A good fish name is Nemo
+* A good lion name is simba
 * example1
 
 
